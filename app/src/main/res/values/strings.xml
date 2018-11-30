@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YunYun</string>
+    <string name="search_hint">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="test_item_location">四川成都高新区天府软件园A2</string>
+    <string name="test_item_content1">研究开发、生产、销售通讯设备及微波通信系统及设备（不含无线电广播电视发射设备及卫星地面接收设备）、互联网系统及设备、数字电视系统、数字监控系统及设备、集成电路、电子产品、计算机信息网络的软硬件并提供以上项目的技术开发、销售及技术转让、技术咨询、技术服务；计算机系统集成的设计、安装、调试；计算机网络服务；智能化建筑工程与弱电系统工程、架线和管道工程建筑、智能化安装施工；项目投资（不得从事非法集资，吸收公众资金等金融活动）；货物进出口、技术进出口；房屋租赁；停车场经营；安全技术防范系统的设计、安装、调试及社会公共安全设备的研发、生产、销售；电子元器件的生产与销售；生产射频识别计价秤（凭制造计量器具许可证在有效期内经营）；工程测量（凭测绘资质证书核定的范围在有效期内从事经营）；（以上经营范围国家法律、法规禁止的除外，限制的取得许可后方可经营；涉及工业行业另设分支机构或另择经营场地经营，涉及资质许可的凭相关资质许可从事经营）。</string>
+    <string name="test_item_content2">华为是全球领先的ICT（信息与通信）基础设施和智能终端提供商，致力于把数字世界带入每个人、每个家庭、每个组织，构建万物互联的智能世界。我们在通信网络、IT、智能终端和云服务等领域为客户提供有竞争力、安全可信赖的产品、解决方案与服务，与生态伙伴开放合作，持续为客户创造价值，释放个人潜能，丰富家庭生活，激发组织创新。华为坚持围绕客户需求持续创新，加大基础研究投入，厚积薄发，推动世界进步。华为成立于1987年，是一家由员工持有全部股份的民营企业，目前有18万员工，业务遍及170多个国家和地区</string>
+    <string name="test_item_content3">深圳市腾讯计算机系统有限公司成立于1998年11月 [1]  ，由马化腾、张志东、许晨晔、陈一丹、曾李青五位创始人共同创立。 [1]  是中国最大的互联网综合服务提供商之一，也是中国服务用户最多的互联网企业之一。 [2]腾讯多元化的服务包括：社交和通信服务QQ及微信/WeChat、社交网络平台QQ空间、腾讯游戏旗下QQ游戏平台、门户网站腾讯网、腾讯新闻客户端和网络视频服务腾讯视频等。 [3]2004年腾讯公司在香港联交所主板公开上市（股票代号00700），董事会主席兼首席执行官是马化腾。</string>
+    <string name="test_item_content4">阿里巴巴网络技术有限公司（简称：阿里巴巴集团）是以曾担任英语教师的马云为首的18人于1999年在浙江杭州创立。 [1-2]阿里巴巴集团经营多项业务，另外也从关联公司的业务和服务中取得经营商业生态系统上的支援。业务和关联公司的业务包括：淘宝网、天猫、聚划算、全球速卖通、阿里巴巴国际交易市场、1688、阿里妈妈、阿里云、蚂蚁金服、菜鸟网络等。 [3]2014年9月19日，阿里巴巴集团在纽约证券交易所正式挂牌上市，股票代码“BABA”，创始人和董事局主席为马云。2018年7月19日，全球同步《财富》世界500强排行榜发布，阿里巴巴集团排名300位。 [4]
+</string>
+    <string name="test_item_title1">成都九洲信息系统有限公司</string>
+    <string name="test_item_title2">华为</string>
+    <string name="test_item_title3">腾讯</string>
+    <string name="test_item_title4">阿里巴巴</string>
+
+    <string-array name="test_item_content_list">
+        <item>@string/test_item_content1</item>
+        <item>@string/test_item_content2</item>
+        <item>@string/test_item_content3</item>
+        <item>@string/test_item_content4</item>
+    </string-array>
+</resources>

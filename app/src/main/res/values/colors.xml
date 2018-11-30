@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38b064</color>
+    <color name="colorPrimaryLight">#82e9a8</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#222222</color>
+
+    <color name="colorContentBg">#ffffff</color>
+
+    <color name="colorTextGray">#888888</color>
+    <color name="colorDividerGray">#e7e7e7</color>
+    <color name="colorBgGray">#e7e7e7</color>
+
+    <color name="alert_default">#38b064</color>
+    <color name="alert_primary">#418bca</color>
+    <color name="alert_success">#5bb85d</color>
+    <color name="alert_info">#5bc0de</color>
+    <color name="alert_warning">#efad4d</color>
+    <color name="alert_danger">#d9544f</color>
+
+    <color name="yellow">#ffca12</color>
+</resources>

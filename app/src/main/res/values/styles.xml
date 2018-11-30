@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--全屏，去默认导航栏-->
+    <style name="MyAppTheme" parent="AppTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowBackground">@color/colorBgGray</item>
+    </style>
+
+    <!--支持圆角的TextView-->
+    <declare-styleable name="RoundTextView">
+        <attr name="rtvBgColor" format="color" />
+        <attr name="rtvBorderWidth" format="dimension" />
+        <attr name="rtvBorderColor" format="dimension" />
+        <attr name="rtvRadius" format="dimension" />
+    </declare-styleable>
+</resources>

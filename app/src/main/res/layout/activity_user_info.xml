@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_user_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.alankin.yunyun.activity.UserInfoActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/userinfo_bg_sp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:layout_centerInParent="true"
+            android:background="@color/colorContentBg"
+            android:src="@mipmap/portrait_default"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp" />
+    </RelativeLayout>
+</LinearLayout>
